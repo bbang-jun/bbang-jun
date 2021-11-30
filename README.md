@@ -19,6 +19,8 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Gradle-02303A.svg?style=flat-square&logo=Gradle&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white"/></a>
 
 💾 My Github
 - 
