@@ -33,7 +33,7 @@
   
 💬 How to Contact me
 - 
-- EMail : <luciddawn@gmail.com>
+- EMail : <lucid9dawn@gmail.com>
 - Instagram : https://www.instagram.com/bbang_jun_e/
 
 
