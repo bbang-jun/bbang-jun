@@ -35,7 +35,7 @@
 💬 How to Contact me
 - 
 - EMail : <lucid9dawn@gmail.com>
-- Instagram : https://www.instagram.com/bbang_jun_e/
+- Instagram : https://www.instagram.com/bbangjuns/
 
 
 <!--
