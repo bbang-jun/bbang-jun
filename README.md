@@ -30,7 +30,7 @@
 
 💻 My Online Judge
 - 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=bjkang402)](https://solved.ac/bjkang402)
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bjkang402)
   
 💬 How to Contact me
 - 
