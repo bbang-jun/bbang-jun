@@ -34,8 +34,8 @@
   
 💬 How to Contact me
 - 
-- EMail : <lucid9dawn@gmail.com>
-- Instagram : https://www.instagram.com/bbangjuns/
+- EMail : <lucid_dawn@naver.com>
+- Instagram : https://www.instagram.com/ma_ma_ma_mamba/
 
 
 <!--
