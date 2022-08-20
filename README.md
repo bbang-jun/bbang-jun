@@ -1,15 +1,12 @@
-### Hi! I'm BBangJun👋 
+### Hi! I'm ByeongJun👋 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbbang-jun&count_bg=%2366C41F&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=bbangjun&edge_flat=false"/></a>
 
 
 🔨 Programming Language
 - 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/></a>
 
 🔧 Tools
 - 
@@ -35,7 +32,7 @@
 💬 How to Contact me
 - 
 - EMail : <lucid_dawn@naver.com>
-- Instagram : https://www.instagram.com/ma_ma_ma_mamba/
+- Instagram : https://www.instagram.com/riverbottle_jun/
 
 
 <!--
