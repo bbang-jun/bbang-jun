@@ -35,7 +35,6 @@
 💬 How to Contact me
 - 
 - EMail : <lucid_dawn@naver.com>
-- Instagram : https://www.instagram.com/riverbottle_jun/
 
 
 <!--
