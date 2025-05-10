@@ -21,11 +21,6 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white"/></a>
-
-💾 My Github
-- 
-[![bbangjun's github stats](https://github-readme-stats.vercel.app/api?username=bbang-jun&count_private=true&custom_title=bbang-jun's&nbsp;github&nbsp;&bg_color=30,ffd700,FFFFF0,e7bd42&title_color=392f31&text_color=392f31)](https://github.com/bbang-jun/github-readme-stats) 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbang-jun)](https://github.com/bbang-jun/github-readme-stats)-->
   
 💬 Contact
 - 
