@@ -1,5 +1,3 @@
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbbang-jun&count_bg=%2366C41F&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=ByeongJun&edge_flat=false"/></a>
-
 🔨 Programming Language
 - 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -28,12 +26,8 @@
 - 
 [![bbangjun's github stats](https://github-readme-stats.vercel.app/api?username=bbang-jun&count_private=true&custom_title=bbang-jun's&nbsp;github&nbsp;&bg_color=30,ffd700,FFFFF0,e7bd42&title_color=392f31&text_color=392f31)](https://github.com/bbang-jun/github-readme-stats) 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbang-jun)](https://github.com/bbang-jun/github-readme-stats)-->
-
-💻 My Online Judge
-- 
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bjkang402)
   
-💬 How to Contact me
+💬 Contact
 - 
 - EMail : <lucid_dawn@naver.com>
 
