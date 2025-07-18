@@ -22,28 +22,6 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white"/></a>
 
-## Projects
-
-|   **Period**   |   **Name**   | **Description** |        **Tech Stack**        |   **Result**    |
-|:--------------:|:-------------:|:---------------:|:----------------------------:|:------------:|
-| 2024.03 - 2024.06 | [보이스 코칭 시스템 고도화 프로젝트] | | | 실무 시스템 성능 개선 |
-| 2024.03 - 2024.08 | [Real Time Trip] | | | 성능 개선 |
-| 2023.02 - 2024.11 | [RAG 기반 업무 문의 지원 AI 어시스턴트] | | | 수상 |
-| 2023.11 - 2023.12 | [따릉이 웹 애플리케이션] | | | 데이터베이스및데이터시각화 1등 플젝 |
-| 2023.09 - 2024.01 | [노션 템플릿 판매 웹 사이트] | | | 수상 |
-| 2023.06 - 2023.12 | [생성형 AI 기반 부동산 선택지원 확장 프로그램] | | | 수상 |
-| 2023.06 - 2023.09 | [나의 시청물 컬렉션 IOS 앱] | | |
-| 2023.05 - 2023.06 | [Picture Board 웹/앱 프로젝트] | | | 소프트웨어프로젝트1 1등 플젝 |
-| 2023.03 - 2023.06 | [터틀넥] | | | 오픈소스소프트웨어설계및실습 1등 플젝, 논문 작성 |
-| 2021.12 - 2022.02 | [암호화폐 포트폴리오 안드로이드 앱] | | |
-
-## Paper
-- [머신러닝을 이용한 거북목 심각도 측정](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11485037) (2023.7)
-  - DBpia Top 5%
-
-## Certification
-- 정처기/adsp/sqld/topcit/pccp(민간)/pcsql(민간)
-  
 💬 Contact
 - 
 - EMail : <lucid_dawn@naver.com>
